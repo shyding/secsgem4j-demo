@@ -5,5 +5,5 @@ HSMS-SS tests work good .
 
 the lib is 
 
-[secsgem4]: https://github.com/shyding/secsgem4j.git
+[secsgem4]: https://github.com/shyding/secsgem4j.git	"secsgem4"
 
